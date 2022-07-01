@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica -->math
+	inclua biblioteca Matematica
+ -->math
 	
 	funcao inicio()
 	{
@@ -8,7 +9,7 @@ programa
 		//Dica: inserindo cons+tipo variável faz com que o valor fique fixo na ação 
 		 
 		inteiro filhos = 0
-		const inteiro habitantes = 20
+		const inteiro habitantes = 3
 		real salario = 0.00
 		real mediaSalarios = 0.00
 		real mediaFilhos = 0.00
